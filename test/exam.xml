@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EXAM>
+	<STUDENTID>110000001</STUDENTID>
+    <NAME>Alice Wang</NAME>
+    <HW>98</HW>
+    <MID>98</MID>
+    <FINAL>58</FINAL>	
+    <REMARK>Good Student</REMARK>
+</EXAM>
+
